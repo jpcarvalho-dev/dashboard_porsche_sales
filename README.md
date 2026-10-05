@@ -1,5 +1,5 @@
 # dashboard_porsche_sales
-Dashboard de vendas Porsche em HTML, CSS e JavaScript (arquivo único). ![Dashboard](prints/dashboard.png)
+Dashboard de vendas Porsche em HTML, CSS e JavaScript (arquivo único).
 
 **Perguntas:** 1) principais modelos por cidade; 2) ano-modelo que mais saiu no período; 3) carros mais populares em cada cidade.
 
